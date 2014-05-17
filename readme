@@ -1,0 +1,6 @@
+Self-Programming-Agent-System is a project writen in C/C++;
+It implements such features and functions:
+1.solve math problem
+2.search for a specified element in a collection
+3.self-generate program to do sub-job
+4.automatically collect answers when terminating signal is found
